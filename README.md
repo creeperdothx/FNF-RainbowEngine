@@ -1,4 +1,4 @@
-this repo is no longer being updated, due to disinterest in fnf
+This repo is no longer being updated. I have left the FNF community due to constant drama in the community, and lost interest in the game.
 
 # FNF-RainbowEngine
 
